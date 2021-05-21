@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/albuquerquecesar/postman#readme",
   "devDependencies": {
+    "axios": "^0.21.1",
     "cypress": "^7.3.0"
   }
 }
