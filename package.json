@@ -1,0 +1,22 @@
+{
+  "name": "desafio_publico_postman",
+  "version": "1.0.0",
+  "description": "fgewrgwegregewrgwer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albuquerquecesar/postman.git"
+  },
+  "author": "cesar albuquerque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albuquerquecesar/postman/issues"
+  },
+  "homepage": "https://github.com/albuquerquecesar/postman#readme",
+  "devDependencies": {
+    "cypress": "^7.3.0"
+  }
+}
