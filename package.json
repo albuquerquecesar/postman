@@ -1,11 +1,11 @@
 {
-  "name": "desafio_publico_postman",
+  "name": "technical_challenge",
   "version": "1.0.0",
-  "description": "fgewrgwegregewrgwer",
+  "description": "It's part of a challenge",
   "main": "index.js",
   "scripts": {
     "cypress:open": "node_modules/.bin/cypress open",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test:chrome": "node_modules/.bin/cypress run --headless --browser chrome"
   },
   "repository": {
     "type": "git",
